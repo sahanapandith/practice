@@ -4,3 +4,4 @@ bananas
 cherries
 carrots
 cereals
+pineapple
